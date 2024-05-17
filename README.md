@@ -42,11 +42,11 @@ Config.SlaughteringSpeed = 6 -- Time in seconds for slaughtering
 Adding an animal to list
 
 ```lua
-    ['a_c_boar'] = { -- Animal model name
-        rewards = {
-            {name = 'meat', chance = 100, min = 1, max = 5}, -- Item name, chance to get, min and max amount
-        }
-    },
+['a_c_boar'] = { -- Animal model name
+    rewards = {
+        {name = 'meat', chance = 100, min = 1, max = 5}, -- Item name, chance to get, min and max amount
+    }
+},
 ```
 
 This part responsible for Shop data. You can add multiple shops
