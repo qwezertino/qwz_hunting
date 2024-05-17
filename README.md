@@ -2,8 +2,10 @@
 Simple Hunting System
 
 ## !!!ATTENTION!!!
-    Its a simple script with simple shop to sell items you get from animals
-    By default anyone can kill and slaughter animals if he finds it. You can enable or disable hunting zones in config section to use bait only in this zones.
+
+Its a simple script with simple shop to sell items you get from animals
+By default anyone can kill and slaughter animals if he finds it.
+You can enable or disable hunting zones in config section to use bait only in this zones.
 
 ##  !!!THERE IS NO IMAGES FOR ITEMS!!!!
 
