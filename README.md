@@ -1,4 +1,4 @@
-# qwz_npcguards
+# qwz_hunting
 Simple Hunting System
 
 ## !!!ATTENTION!!!
