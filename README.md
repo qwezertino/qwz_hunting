@@ -67,8 +67,6 @@ Config.ShopData = {
 }
 ```
 
-## Hunting Zones
-
 You can add Hunting Zones with `Config.EnableHuntingZones = true`
 
 ```lua
