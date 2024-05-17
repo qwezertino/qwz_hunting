@@ -12,7 +12,7 @@ Simple Hunting System
  - Just place `qwz_hunting` in your server scripts folder and ensure it!
  - Add to your `qb-core/shared/items.lua` items:
  ```lua
- 	["huntingbait"] 		 			 = {["name"] = "huntingbait",       	    	["label"] = "Hunt Bait",	 		['x'] = 1,	['y'] = 1,["weight"] = 150, 		["type"] = "item", 		["image"] = "huntingbait.png", 			["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ["description"] = "Hunting Bait"},
+ 	["huntingbait"] 		 			 = {["name"] = "huntingbait",       	    	["label"] = "Hunt Bait",	 ["weight"] = 150, 		["type"] = "item", 		["image"] = "huntingbait.png", 			["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ["description"] = "Hunting Bait"},
  ```
  - Add some items like `meat` or `deerhorns` in the same way as you add `huntingbait`
 
