@@ -1,0 +1,21 @@
+{
+    "slaughter_label": "Slaughtering...",
+    "slaughter_target_label": "Slaughter",
+    "placing_bait_item": "Placing bait...",
+    "cancel_event": "Cancelled",
+    "bait_dont_work": "Bait doesn't work",
+    "animal_flees_away": "Animal flees away",
+    "you_get_items": "You get item: ",
+    "no_reward": "Nothing found",
+    "no_space": "No space",
+    "failed_to_remove_item": "No item to sell: ",
+    "open_shop": "Open shop",
+    "sell_menu_title": "Select amount to sell",
+    "sell_animal_rewards": "Sell animal parts",
+    "sell_menu_amount": "Select amount:",
+    "sell_menu_amount_description": "Select amount to sell",
+    "sell_menu_item": "Sell: ",
+    "success_selling_item": "You succeeded in selling item: ",
+    "not_in_hunting_zone": "You are not in hunting zone!",
+    "wait_timer": "Please wait some time before you can use it again!"
+}
