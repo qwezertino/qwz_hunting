@@ -1,6 +1,7 @@
 local QBCore = exports['qb-core']:GetCoreObject()
 lib.locale()
 GlobalState.AnimalsNPC = {}
+-- Test commnent for testing
 
 AddEventHandler('onResourceStart', function(resource)
 	if resource ~= GetCurrentResourceName() then return end
